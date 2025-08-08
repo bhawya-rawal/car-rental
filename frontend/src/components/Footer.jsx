@@ -116,10 +116,10 @@ const Footer = () => {
               Contact
             </h2>
             <ul className="mt-3 flex flex-col gap-1.5">
-              <li>27 Marine Drive</li>
-              <li>Mumbai, Maharashtra 400020</li>
-              <li>+91 98765 43210</li>
-              <li>car@example.in</li>
+              <li>JIIT SECTOR 62</li>
+              <li>NOIDA, UTTAR PRADESH ,201309</li>
+              <li>+91 7986208224</li>
+              <li>createwithbt@gmail.com</li>
             </ul>
           </div>
         </motion.div>
@@ -129,7 +129,7 @@ const Footer = () => {
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, delay: 0.6 }}
         className="flex flex-col md:flex-row gap-2 items-center justify-between py-5">
-        <p>© {new Date().getFullYear()} CarRental. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} CreatewithBT. All rights reserved.</p>
         <ul className="flex items-center gap-4">
           <li>
             <a href="#">Terms</a>
